@@ -1,5 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1699195134 "c:/Users/ROBERT/OneDrive/Desktop/projects/Pdf-generator/main.tex" "main.pdf" "main" 1699195136 0
+["pdflatex"] 1699210199 "c:/Users/ROBERT/OneDrive/Desktop/projects/Pdf-generator/main.tex" "main.pdf" "main" 1699210203 0
+  "AND_tt.png" 1699196183 27986 9ec865c858183f8beb4c0c0f8b58384e ""
   "C:/Users/ROBERT/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1699181908 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/ROBERT/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1699181901 24142380 ff2c7dfe7276e96d632e3c8b2c1935a3 ""
   "C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -119,10 +120,13 @@
   "C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfkeys.sty" 1673775190 274 5ae372b7df79135d240456a1c6f2cf9a ""
   "C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfrcs.sty" 1673775190 325 f9f16d12354225b7dd52a3321f085955 ""
   "C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/ROBERT/OneDrive/Desktop/projects/Pdf-generator/main.tex" 1699195130 7537 2c807b957c080718d18e296c0d0c7282 ""
+  "NOT_tt.png" 1699196255 21228 9fc9e64bcb173b82465af87934bcf5ac ""
+  "OR_tt.png" 1699196221 26944 eb22ad49594768d3ab52fb6f1736aff7 ""
+  "basic_identities.png" 1699196311 141945 ca06a03e4e117d2484b1144a854af0a2 ""
+  "c:/Users/ROBERT/OneDrive/Desktop/projects/Pdf-generator/main.tex" 1699210196 10842 b7f06259d4fb9d2f5b34de9c6bb4c4d2 ""
   "intersection.png" 1699188763 18645 6d05668920ec4b48b3c6c14d8be2442d ""
-  "main.aux" 1699195136 32 f852561997c05a7d986acd1deeb530ec "pdflatex"
-  "main.tex" 1699195130 7537 2c807b957c080718d18e296c0d0c7282 ""
+  "main.aux" 1699210203 536 314931dc388d4b564cd9aacabae0c04b "pdflatex"
+  "main.tex" 1699210196 10842 b7f06259d4fb9d2f5b34de9c6bb4c4d2 ""
   "set_difference.png" 1699188801 15422 58aeb524b87d6ff5db998fad5e26e04d ""
   "symmetric_diff.png" 1699188872 23908 9dfd0fd5729f009e6a09d59f2b3c20eb ""
   "union.png" 1699188706 19187 48251a4a18622130155eac1eb9666d92 ""
