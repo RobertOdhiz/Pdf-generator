@@ -1,12 +1,15 @@
 \documentclass[12pt]{report}
 
 \usepackage{amsmath, amsfonts}
+\usepackage{eucal}
 \usepackage{graphicx}
 \usepackage{enumitem}
 \usepackage{tikz}
-\allowbreak
 
 \newtheorem{definition}{Definition}
+\newtheorem{example}{Example}
+
+\newcommand{\bfit}[1]{\textbf{\textit{#1}}}
 
 
 \title{\textbf{Engineering Mathematics}}
@@ -186,7 +189,7 @@
                 \end{figure}
             \item The OR operator is often referred to as a Boolean sum. The expression
             x+y is read “x or y”. The truth table for OR is shown below
-            \item Both $\overset{-}{x}$ and $x'$ are read as NOT x 
+            \item Both $\bar{x}$ and $x'$ are read as NOT x 
             \item The rule of precedence for Boolean operators give NOT top priority,
             followed by AND, and then OR
         \end{enumerate}
@@ -210,7 +213,58 @@
     : For sets A, B, any subset of \textit{A} \(\times\) $B$ is called a binary relation from
     \textit{A} to $B$. Any subset of \textit{A} \(\times\) \textit{A} is called a \textbf{binary relation} on \textit{A}.
     \end{definition}
-    \text{A binary relation  from A to B is a set R of ordered pairs where the first element of}\\
-    \text{each ordered pair comes from A and the second element comes from B}
+    \text{A binary relation  from A to B is a set $\mathcal{R}$ of ordered pairs where the first element of each}\\
+    \text{ordered pair comes from A and the second element comes from B. We use the notation $a\mathcal{R}b$ to}\\
+    \text{denote that $(a,b) \in \mathcal{R} \text{ and a} \not \mathcal{R} b$ When $(a,b) \in \mathcal{R}, a$ is said to be related to $b \text{ by } \mathcal{R}$.}\\
+    \text{Let $A=\{0,1,2\}$ and \(B=\{a,b\}\) then \(\mathcal{R}=\{(0,a),(0,b),(1,a),(2,b)\}\) is a relation from \textit{A} to \textit{B}.}\\
+    \text{This means for instance that \(0\mathcal{R}a, 1\mathcal{R}a,\)etc}\\
+    \text{The above relation can be represented graphically using arrows to represent ordered pairs: }
+    \begin{figure}[h!]
+        \includegraphics[width=0.4\linewidth]{relationns1.png}
+        \caption{Graph for the relation explained above}
+    \end{figure}
+
+    \section*{Relations on a set}
+
+        \begin{definition}
+            A relation on a set A is a relation from A to A
+        \end{definition}
+
+        \begin{example}
+            Let A=\{1,2,3,4\}. Which ordered pairs in the relation $\mathcal{R}=\{(a,b):a\text{ divide } b$\}\\
+            \label{fig1}
+        \end{example}
+
+        \textbf{Solution}
+        \text{Since \((a,b)\) is in $\mathcal{R}$ if and only if a and b are positive integers not exceeding 4 such}\\
+        \text{that a divides b,wesee that:}\\
+        $\mathcal{R=\{\text{(1,1), (1,2), (1,3), (1,4), (2,2), (2,4), (3,3), (4,4)}\}}$
+
+        \begin{figure}[h!]
+            \includegraphics[width=0.5\linewidth]{relations2.png}
+            \caption{Graph of the relation in example \ref{fig1}}
+        \end{figure}
+
+        \text{On a set \textit{A} with \textit{n} elements, a relation on \textit{A} is a subset of $A \times A$. Since $A \times A$ has $n^2$}\\
+        \text{elements, when \textit{A} has \textit{n} elements and a set with \textit{m} elements has $2^m$ subsets, there are ${2^n}^2$}\\
+        \text{subsets of $A \times A$. Thus there are \bfit{$2n^2$} relations on a set with \textit{n} elements.}
+
+    \section*{Properties of Relations}
+
+        \begin{definition}
+            A relation $\mathcal{R}$ on a set A is said to be \bfit{reflexive} if for all $x \in A, (x,x) \in \mathcal{R}$.
+        \end{definition}
+
+        \begin{example}
+            For A = \{1,2,3,4\}
+        \end{example}
+        \text{A relation $\mathcal{R} \subseteq A \times A$ will be reflexive if and only if
+        $\mathcal{R} \supseteq \{(1,1), (2,2), (3,3), (4,4)\}$} \\
+        \text{Consequently $\mathcal{R_1} = \{(1,1),(2,2), (3,3)\}$ is not aa reflexive relation on $A = \{(1,1), (2,2), (3,3)\}$}\\
+        \text{since $4 \in A$ but $(4,4) \notin \mathcal{R}$}\\
+
+        $\mathcal{R_2} = \{(x,y): x,y \in A, x \le y\}$ is reflexive in $A=\{1,2,3,4\}$
+
+
 
 \end{document}

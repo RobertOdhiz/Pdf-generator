@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.5)  5 NOV 2023 21:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.5)  7 NOV 2023 01:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -95,6 +95,10 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (C:\Users\ROBERT\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\eucal.sty
+Package: eucal 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
 ) (C:\Users\ROBERT\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (C:\Users\ROBERT\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
@@ -316,39 +320,40 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
 \c@definition=\count295
+\c@example=\count296
  (C:\Users\ROBERT\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count296
+\l__color_backend_stack_int=\count297
 \l__pdf_internal_box=\box65
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
  (C:\Users\ROBERT\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count297
+\scratchcounter=\count298
 \scratchdimen=\dimen259
 \scratchbox=\box66
-\nofMPsegments=\count298
-\nofMParguments=\count299
+\nofMPsegments=\count299
+\nofMParguments=\count300
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count300
+\MPscratchCnt=\count301
 \MPscratchDim=\dimen260
-\MPnumerator=\count301
-\makeMPintoPDFobject=\count302
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
 \everyMPtoPDFconversion=\toks37
 ) (C:\Users\ROBERT\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -356,73 +361,73 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\ROBERT\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
  (C:\Users\ROBERT\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
  (C:\Users\ROBERT\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {C:/Users/ROBERT/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 27--29
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
 
  []
 
 
-Overfull \hbox (37.23857pt too wide) in paragraph at lines 32--35
+Overfull \hbox (37.23857pt too wide) in paragraph at lines 35--38
 [] 
  []
 
 
-Overfull \hbox (100.03102pt too wide) in paragraph at lines 36--42
+Overfull \hbox (100.03102pt too wide) in paragraph at lines 39--45
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--42
+Underfull \hbox (badness 10000) in paragraph at lines 39--45
 
  []
 
 [1
 
 ]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 68.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 71.
  (C:\Users\ROBERT\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--87
+Underfull \hbox (badness 10000) in paragraph at lines 76--90
 
  []
 
 [2]
-Overfull \hbox (78.33557pt too wide) in paragraph at lines 95--96
+Overfull \hbox (78.33557pt too wide) in paragraph at lines 98--99
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--102
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
 
  []
 
 <union.png, id=20, 207.77625pt x 106.89937pt>
 File: union.png Graphic file (type png)
 <use union.png>
-Package pdftex.def Info: union.png  used on input line 105.
+Package pdftex.def Info: union.png  used on input line 108.
 (pdftex.def)             Requested size: 155.99762pt x 80.26239pt.
 <intersection.png, id=22, 219.06844pt x 123.46124pt>
 File: intersection.png Graphic file (type png)
 <use intersection.png>
-Package pdftex.def Info: intersection.png  used on input line 110.
+Package pdftex.def Info: intersection.png  used on input line 113.
 (pdftex.def)             Requested size: 155.99762pt x 87.91805pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -430,7 +435,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <set_difference.png, id=23, 149.8097pt x 195.73125pt>
 File: set_difference.png Graphic file (type png)
 <use set_difference.png>
-Package pdftex.def Info: set_difference.png  used on input line 115.
+Package pdftex.def Info: set_difference.png  used on input line 118.
 (pdftex.def)             Requested size: 155.99762pt x 203.83044pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -438,33 +443,18 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <symmetric_diff.png, id=24, 225.84375pt x 208.52907pt>
 File: symmetric_diff.png Graphic file (type png)
 <use symmetric_diff.png>
-Package pdftex.def Info: symmetric_diff.png  used on input line 120.
+Package pdftex.def Info: symmetric_diff.png  used on input line 123.
 (pdftex.def)             Requested size: 155.99762pt x 144.0443pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (39.45804pt too wide) in paragraph at lines 126--129
+Overfull \hbox (39.45804pt too wide) in paragraph at lines 129--132
 []
  []
 
 [3 <./union.png>] [4 <./intersection.png> <./set_difference.png> <./symmetric_diff.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 136--140
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 141--142
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 139--143
 
  []
 
@@ -484,44 +474,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--146
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--149
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
 
 
-Overfull \hbox (18.89575pt too wide) in paragraph at lines 154--158
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--152
+
+ []
+
+
+Overfull \hbox (18.89575pt too wide) in paragraph at lines 157--161
 [] 
  []
 
 
-Overfull \hbox (20.06657pt too wide) in paragraph at lines 154--158
+Overfull \hbox (20.06657pt too wide) in paragraph at lines 157--161
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--158
+Underfull \hbox (badness 10000) in paragraph at lines 157--161
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 159--161
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
 
  []
 
 <AND_tt.png, id=39, 153.57375pt x 140.77594pt>
 File: AND_tt.png Graphic file (type png)
 <use AND_tt.png>
-Package pdftex.def Info: AND_tt.png  used on input line 172.
+Package pdftex.def Info: AND_tt.png  used on input line 175.
 (pdftex.def)             Requested size: 117.00119pt x 107.25287pt.
 <OR_tt.png, id=40, 142.28156pt x 132.495pt>
 File: OR_tt.png Graphic file (type png)
 <use OR_tt.png>
-Package pdftex.def Info: OR_tt.png  used on input line 180.
+Package pdftex.def Info: OR_tt.png  used on input line 183.
 (pdftex.def)             Requested size: 117.00119pt x 108.95793pt.
 <NOT_tt.png, id=41, 155.07938pt x 99.37125pt>
 File: NOT_tt.png Graphic file (type png)
 <use NOT_tt.png>
-Package pdftex.def Info: NOT_tt.png  used on input line 184.
+Package pdftex.def Info: NOT_tt.png  used on input line 187.
 (pdftex.def)             Requested size: 117.00119pt x 74.971pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -530,48 +535,117 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [6 <./AND_tt.png>]
-Overfull \hbox (91.91826pt too wide) in paragraph at lines 194--196
+Overfull \hbox (91.91826pt too wide) in paragraph at lines 197--199
 [][] 
  []
 
 
-Overfull \hbox (15.42111pt too wide) in paragraph at lines 194--196
+Overfull \hbox (15.42111pt too wide) in paragraph at lines 197--199
 [] 
  []
 
 <basic_identities.png, id=47, 447.17062pt x 245.41687pt>
 File: basic_identities.png Graphic file (type png)
 <use basic_identities.png>
-Package pdftex.def Info: basic_identities.png  used on input line 198.
+Package pdftex.def Info: basic_identities.png  used on input line 201.
 (pdftex.def)             Requested size: 390.0pt x 214.04643pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [7 <./OR_tt.png> <./NOT_tt.png>] [8 <./basic_identities.png>]
-Overfull \hbox (38.14001pt too wide) in paragraph at lines 213--215
+LaTeX Font Info:    Trying to load font information for U+eus on input line 216.
+ (C:\Users\ROBERT\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueus.fd
+File: ueus.fd 2013/01/14 v3.01 Euler Script
+)
+<relationns1.png, id=57, 236.38312pt x 97.86563pt>
+File: relationns1.png Graphic file (type png)
+<use relationns1.png>
+Package pdftex.def Info: relationns1.png  used on input line 223.
+(pdftex.def)             Requested size: 155.99762pt x 64.58702pt.
+
+Overfull \hbox (64.60292pt too wide) in paragraph at lines 216--226
 [] 
  []
 
+
+Overfull \hbox (96.00256pt too wide) in paragraph at lines 216--226
+[] 
+ []
+
+
+Overfull \hbox (34.71774pt too wide) in paragraph at lines 216--226
+[] 
+ []
+
+
+Overfull \hbox (97.60591pt too wide) in paragraph at lines 216--226
+[] 
+ []
+
+
+Overfull \hbox (79.99512pt too wide) in paragraph at lines 216--226
+[]
+ []
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 234.
 [9
 
-] (main.aux)
+ <./relationns1.png>]
+Overfull \hbox (103.51686pt too wide) in paragraph at lines 238--242
+[]\OT1/cmr/bx/n/12 Solution [] 
+ []
+
+<relations2.png, id=64, 355.3275pt x 120.45pt>
+File: relations2.png Graphic file (type png)
+<use relations2.png>
+Package pdftex.def Info: relations2.png  used on input line 244.
+(pdftex.def)             Requested size: 195.0pt x 66.1025pt.
+
+Overfull \hbox (70.6877pt too wide) in paragraph at lines 248--251
+[][] 
+ []
+
+
+Overfull \hbox (73.83037pt too wide) in paragraph at lines 248--251
+[] 
+ []
+
+Missing character: There is no 1 in font eusm10!
+
+Overfull \hbox (38.1348pt too wide) in paragraph at lines 262--265
+[] 
+ []
+
+
+Overfull \hbox (92.12083pt too wide) in paragraph at lines 262--265
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+
+ []
+
+Missing character: There is no 2 in font eusm10!
+[10 <./relations2.png>] (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 13041 strings out of 475248
- 268142 string characters out of 5757341
+ 13107 strings out of 475248
+ 269457 string characters out of 5757341
  1925785 words of memory out of 5000000
- 34346 multiletter control sequences out of 15000+600000
- 569152 words of font info for 77 fonts, out of 8000000 for 9000
+ 34404 multiletter control sequences out of 15000+600000
+ 569752 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,7n,89p,452b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (10 pages, 407656 bytes).
+ 84i,9n,89p,441b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/ROBERT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eusm10.pfb>
+Output written on main.pdf (11 pages, 451220 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
+ 112 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
